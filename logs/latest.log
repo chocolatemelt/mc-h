@@ -1,115 +1,259 @@
-[19:13:10] [Server thread/INFO]: Starting minecraft server version 1.11.2
-[19:13:33] [Server thread/INFO]: Loading properties
-[19:13:33] [Server thread/INFO]: Default game type: SURVIVAL
-[19:13:33] [Server thread/INFO]: Generating keypair
-[19:13:33] [Server thread/INFO]: Starting Minecraft server on *:25566
-[19:13:33] [Server thread/INFO]: Using epoll channel type
-[19:13:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:13:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:13:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:13:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:13:36] [Server thread/INFO]: Preparing level "hardcore"
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:38] [Server thread/INFO]: [STDOUT]: ChunkProviderGenerateBOP json: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: ChunkProviderGenerateBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generateBopSoils":true,"generateBopTrees":true,"generateBopGrasses":true,"generateBopFoliage":true,"generateBopFlowers":true,"generateBopPlants":true,"generateBopWaterPlants":true,"generateBopMushrooms":true,"generateRockFormations":true,"generatePoisonIvy":true,"generateFlax":true,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateNetherPlants":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:38] [Server thread/INFO]: [STDOUT]: settings for world: 
-[19:13:38] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
-[19:13:39] [Server thread/INFO]: Preparing start region for level 0
-[19:13:41] [Server thread/INFO]: Preparing spawn area: 0%
-[19:13:42] [Server thread/INFO]: Preparing spawn area: 4%
-[19:13:43] [Server thread/INFO]: Preparing spawn area: 11%
-[19:13:44] [Server thread/INFO]: Preparing spawn area: 34%
-[19:13:45] [Server thread/INFO]: Preparing spawn area: 63%
-[19:13:46] [Server thread/INFO]: Preparing spawn area: 95%
-[19:13:46] [Server thread/INFO]: Done (10.640s)! For help, type "help" or "?"
-[19:13:54] [Server thread/INFO]: kev-kun[/173.76.164.128:13597] logged in with entity id 226 at (205.5, 129.0, 241.5)
-[19:13:55] [Server thread/INFO]: kev-kun joined the game
-[19:13:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3994ms behind, skipping 79 tick(s)
-[19:14:11] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Mod rejections [FMLMod:bspkrscore{at_0.9}, FMLMod:treecapitator{at_0.9}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:14:11] [Server thread/INFO]: fierceseraph left the game
-[19:14:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2656ms behind, skipping 53 tick(s)
-[19:15:43] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Mod rejections [FMLMod:bspkrscore{at_0.9}, FMLMod:treecapitator{at_0.9}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:15:43] [Server thread/INFO]: fierceseraph left the game
-[19:16:19] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Mod rejections [FMLMod:bspkrscore{at_0.9}, FMLMod:treecapitator{at_0.9}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:16:19] [Server thread/INFO]: fierceseraph left the game
-[19:16:42] [Server thread/INFO]: kev-kun has just earned the achievement [Taking Inventory]
-[19:17:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4097ms behind, skipping 81 tick(s)
-[19:17:08] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:17:08] [Server thread/INFO]: kev-kun left the game
-[19:17:25] [Server thread/INFO]: fierceseraph[/173.59.8.177:62627] logged in with entity id 30673 at (205.5, 125.0, 232.5)
-[19:17:25] [Server thread/INFO]: fierceseraph joined the game
-[19:17:36] [Server thread/INFO]: fierceseraph has just earned the achievement [Taking Inventory]
-[19:20:29] [Server thread/INFO]: kev-kun[/173.76.164.128:14013] logged in with entity id 68218 at (288.39694445010537, 125.0, 218.2587129051931)
-[19:20:29] [Server thread/INFO]: kev-kun joined the game
-[19:21:52] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:21:52] [Server thread/INFO]: kev-kun left the game
-[19:24:06] [Server thread/INFO]: kev-kun[/173.76.164.128:14228] logged in with entity id 85467 at (180.40629599282198, 121.0, 181.3349076797616)
-[19:24:06] [Server thread/INFO]: kev-kun joined the game
-[19:28:15] [Server thread/INFO]: wtfamidoing[/108.49.113.134:56378] logged in with entity id 96954 at (201.5, 131.0, 233.5)
-[19:28:15] [Server thread/INFO]: wtfamidoing joined the game
-[19:31:05] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:31:05] [Server thread/INFO]: kev-kun left the game
-[19:34:04] [Server thread/INFO]: fierceseraph has just earned the achievement [Getting Wood]
-[19:34:44] [Server thread/INFO]: kev-kun[/173.76.164.128:14560] logged in with entity id 129836 at (201.28769567187047, 125.0, 176.62473486262746)
-[19:34:44] [Server thread/INFO]: kev-kun joined the game
-[19:34:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4589ms behind, skipping 91 tick(s)
-[19:34:59] [Server thread/INFO]: wtfamidoing has just earned the achievement [Taking Inventory]
-[19:35:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3783ms behind, skipping 75 tick(s)
-[19:36:53] [Server thread/INFO]: kev-kun has just earned the achievement [Getting Wood]
-[19:38:28] [Server thread/WARN]: fierceseraph moved wrongly!
-[19:39:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
-[19:43:06] [Server thread/INFO]: kev-kun has just earned the achievement [Benchmarking]
-[19:43:34] [Server thread/INFO]: kev-kun has just earned the achievement [Time to Mine!]
-[19:43:56] [Server thread/INFO]: kev-kun has just earned the achievement [Time to Strike!]
-[19:44:24] [Server thread/INFO]: kev-kun has just earned the achievement [Time to Farm!]
-[19:45:40] [Server thread/INFO]: kev-kun has just earned the achievement [Monster Hunter]
-[19:49:22] [Server thread/INFO]: wtfamidoing lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:49:22] [Server thread/INFO]: wtfamidoing left the game
-[19:55:58] [Server thread/INFO]: kyr1n[/108.49.113.134:58335] logged in with entity id 238794 at (204.5, 129.0, 241.5)
-[19:55:58] [Server thread/INFO]: kyr1n joined the game
-[19:58:36] [Server thread/INFO]: kev-kun hit the ground too hard
-[20:01:37] [Server thread/INFO]: Usage: /gamemode <mode> [player]
-[20:01:42] [Server thread/INFO]: Player '0' cannot be found
-[20:01:47] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:01:51] [Server thread/INFO]: Set kev-kun's game mode to Survival Mode
-[20:01:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3174ms behind, skipping 63 tick(s)
-[20:01:58] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:01:58] [Server thread/INFO]: kev-kun left the game
-[20:02:04] [Server thread/INFO]: kev-kun[/173.76.164.128:15312] logged in with entity id 272431 at (415.30000001192093, 32.0, 221.30000001192093)
-[20:02:04] [Server thread/INFO]: kev-kun joined the game
-[20:02:07] [Server thread/INFO]: fierceseraph has just earned the achievement [Benchmarking]
-[20:02:16] [Server thread/INFO]: kev-kun suffocated in a wall
-[20:02:36] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:02:39] [Server thread/INFO]: Player '0' cannot be found
-[20:02:42] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:02:45] [Server thread/INFO]: Set kev-kun's game mode to Survival Mode
-[20:03:30] [Server thread/INFO]: There is no such item with name minecraft:4153
-[20:03:49] [Server thread/INFO]: Given [Brass Flakes] * 1 to kev-kun
-[20:04:38] [Server thread/INFO]: fierceseraph has just earned the achievement [Time to Mine!]
-[20:07:52] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:07:54] [Server thread/INFO]: --- Showing help page 1 of 26 (/help <page>) ---
-[20:07:54] [Server thread/INFO]: /.s [args...]
-[20:07:54] [Server thread/INFO]: // [on|off]
-[20:07:54] [Server thread/INFO]: //calc <expression>
-[20:07:54] [Server thread/INFO]: //center <block>
-[20:07:54] [Server thread/INFO]: //chunk [x,z coordinates]
-[20:07:54] [Server thread/INFO]: //clearhistory 
-[20:07:54] [Server thread/INFO]: //contract <amount> [reverse-amount] [direction]
-[20:07:54] [Server thread/INFO]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
-[20:09:54] [Server thread/INFO]: fierceseraph has just earned the achievement [Getting an Upgrade]
-[20:13:51] [Server thread/INFO]: kyr1n has just earned the achievement [Taking Inventory]
-[20:17:20] [Server thread/INFO]: fierceseraph has just earned the achievement [Hot Topic]
-[20:19:14] [Server thread/INFO]: cookie lost connection: TextComponent{text='Mod rejections [FMLMod:psi{r1.1-47}, FMLMod:allomancy{2.7.0}, FMLMod:natura{1.11.2-4.2.0.33}, FMLMod:waystones{3.0.17}, FMLMod:mantle{1.11.2-1.2.0.26}, FMLMod:cavern{1.8.3}, FMLMod:xreliquary{1.11.2-1.3.4.678}, FMLMod:bspkrscore{at_0.9}, FMLMod:treecapitator{at_0.9}]', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:19:14] [Server thread/INFO]: cookie left the game
-[20:19:23] [Server thread/INFO]: fierceseraph has just earned the achievement [Time to Farm!]
+[21:06:45] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[21:07:05] [Server thread/INFO]: Loading properties
+[21:07:05] [Server thread/INFO]: Default game type: SURVIVAL
+[21:07:05] [Server thread/INFO]: Generating keypair
+[21:07:05] [Server thread/INFO]: Starting Minecraft server on *:25566
+[21:07:05] [Server thread/INFO]: Using epoll channel type
+[21:07:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:07:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:07:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:07:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:07:08] [Server thread/INFO]: Preparing level "hardcore"
+[21:07:08] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:08] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:08] [Server thread/INFO]: [STDOUT]: ChunkProviderGenerateBOP json: 
+[21:07:08] [Server thread/INFO]: [STDOUT]: ChunkProviderGenerateBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generateBopSoils":true,"generateBopTrees":true,"generateBopGrasses":true,"generateBopFoliage":true,"generateBopFlowers":true,"generateBopPlants":true,"generateBopWaterPlants":true,"generateBopMushrooms":true,"generateRockFormations":true,"generatePoisonIvy":true,"generateFlax":true,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateNetherPlants":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[21:07:11] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:11] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:11] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:11] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:11] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:11] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:11] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:11] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:11] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:11] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:11] [Server thread/INFO]: [STDOUT]: settings for world: 
+[21:07:11] [Server thread/INFO]: [STDOUT]: Setting up landmass VANILLA
+[21:07:11] [Server thread/INFO]: Preparing start region for level 0
+[21:07:12] [Server thread/INFO]: Preparing spawn area: 3%
+[21:07:14] [Server thread/INFO]: Preparing spawn area: 5%
+[21:07:15] [Server thread/INFO]: Preparing spawn area: 7%
+[21:07:16] [Server thread/INFO]: Preparing spawn area: 9%
+[21:07:17] [Server thread/INFO]: Preparing spawn area: 13%
+[21:07:18] [Server thread/INFO]: Preparing spawn area: 16%
+[21:07:19] [Server thread/INFO]: Preparing spawn area: 19%
+[21:07:20] [Server thread/INFO]: Preparing spawn area: 22%
+[21:07:21] [Server thread/INFO]: Preparing spawn area: 26%
+[21:07:22] [Server thread/INFO]: Preparing spawn area: 29%
+[21:07:23] [Server thread/INFO]: Preparing spawn area: 32%
+[21:07:24] [Server thread/INFO]: Preparing spawn area: 37%
+[21:07:26] [Server thread/INFO]: Preparing spawn area: 40%
+[21:07:27] [Server thread/INFO]: Preparing spawn area: 43%
+[21:07:28] [Server thread/INFO]: Preparing spawn area: 48%
+[21:07:29] [Server thread/INFO]: Preparing spawn area: 52%
+[21:07:30] [Server thread/INFO]: Preparing spawn area: 58%
+[21:07:31] [Server thread/INFO]: Preparing spawn area: 60%
+[21:07:32] [Server thread/INFO]: Preparing spawn area: 64%
+[21:07:33] [Server thread/INFO]: Preparing spawn area: 68%
+[21:07:34] [Server thread/INFO]: Preparing spawn area: 71%
+[21:07:35] [Server thread/INFO]: Preparing spawn area: 77%
+[21:07:36] [Server thread/INFO]: Preparing spawn area: 81%
+[21:07:38] [Server thread/INFO]: Preparing spawn area: 88%
+[21:07:39] [Server thread/INFO]: Preparing spawn area: 95%
+[21:07:40] [Server thread/INFO]: Done (32.794s)! For help, type "help" or "?"
+[21:07:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3177ms behind, skipping 63 tick(s)
+[21:08:00] [Server thread/INFO]: kev-kun[/173.76.164.128:17386] logged in with entity id 2064 at (218.5, 72.0, 254.5)
+[21:08:00] [Server thread/INFO]: kev-kun joined the game
+[21:08:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2042ms behind, skipping 40 tick(s)
+[21:08:14] [Server thread/INFO]: kev-kun has just earned the achievement [Taking Inventory]
+[21:08:19] [Server thread/INFO]: kyr1n[/108.49.113.134:61562] logged in with entity id 3260 at (218.5, 71.0, 253.5)
+[21:08:19] [Server thread/INFO]: kyr1n joined the game
+[21:08:40] [Server thread/INFO]: fierceseraph[/173.59.8.177:63685] logged in with entity id 3704 at (218.5, 71.0, 261.5)
+[21:08:40] [Server thread/INFO]: fierceseraph joined the game
+[21:08:45] [Server thread/INFO]: fierceseraph has just earned the achievement [Taking Inventory]
+[21:09:12] [Server thread/INFO]: kev-kun has just earned the achievement [Getting Wood]
+[21:09:20] [Server thread/INFO]: cookie[/173.76.172.75:57994] logged in with entity id 4571 at (212.5, 69.0, 259.5)
+[21:09:20] [Server thread/INFO]: cookie joined the game
+[21:09:26] [Server thread/INFO]: kyr1n has just earned the achievement [Taking Inventory]
+[21:09:28] [Server thread/INFO]: cookie has just earned the achievement [Taking Inventory]
+[21:09:37] [Netty Epoll Server IO #0/INFO]: <cookie> [Tin Flakes]
+[21:09:39] [Server thread/INFO]: kyr1n has just earned the achievement [Getting Wood]
+[21:09:53] [Server thread/INFO]: cookie has just earned the achievement [Getting Wood]
+[21:09:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2019ms behind, skipping 40 tick(s)
+[21:10:31] [Server thread/INFO]: fierceseraph has just earned the achievement [Getting Wood]
+[21:10:48] [Server thread/INFO]: kev-kun has just earned the achievement [Benchmarking]
+[21:11:45] [Server thread/INFO]: kev-kun has just earned the achievement [Time to Strike!]
+[21:11:51] [Server thread/INFO]: kev-kun has just earned the achievement [Time to Mine!]
+[21:12:02] [Server thread/INFO]: kev-kun has just earned the achievement [Time to Farm!]
+[21:12:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2522ms behind, skipping 50 tick(s)
+[21:14:27] [Server thread/INFO]: cookie has just earned the achievement [Benchmarking]
+[21:14:51] [Server thread/INFO]: fierceseraph has just earned the achievement [Benchmarking]
+[21:15:03] [Server thread/INFO]: fierceseraph has just earned the achievement [Time to Mine!]
+[21:15:04] [Server thread/INFO]: fierceseraph has just earned the achievement [Getting an Upgrade]
+[21:16:07] [Server thread/INFO]: kyr1n has just earned the achievement [Benchmarking]
+[21:17:17] [Server thread/INFO]: kev-kun has just earned the achievement [Hot Topic]
+[21:17:33] [Server thread/INFO]: fierceseraph has just earned the achievement [Hot Topic]
+[21:19:40] [Server thread/INFO]: cookie has just earned the achievement [Time to Mine!]
+[21:20:01] [Server thread/INFO]: cookie has just earned the achievement [Time to Strike!]
+[21:20:12] [Server thread/INFO]: cookie has just earned the achievement [Time to Farm!]
+[21:21:23] [Server thread/INFO]: fierceseraph has just earned the achievement [Time to Strike!]
+[21:21:31] [Server thread/INFO]: fierceseraph has just earned the achievement [Monster Hunter]
+[21:21:56] [Server thread/INFO]: kev-kun has just earned the achievement [Getting an Upgrade]
+[21:22:57] [Server thread/INFO]: cookie has just earned the achievement [Monster Hunter]
+[21:23:04] [Server thread/INFO]: kev-kun has just earned the achievement [Monster Hunter]
+[21:27:45] [Server thread/INFO]: fierceseraph has just earned the achievement [Cow Tipper]
+[21:28:58] [Server thread/INFO]: fierceseraph was slain by Chicken
+[21:29:03] [Server thread/INFO]: kev-kun has just earned the achievement [Cow Tipper]
+[21:29:20] [Server thread/INFO]: 'fierceseraph[D[D[D[D' is not a valid number
+[21:29:26] [Server thread/INFO]: Set fierceseraph's game mode to Survival Mode
+[21:30:55] [Server thread/INFO]: kev-kun has just earned the achievement [Flower Child]
+[21:31:40] [Server thread/INFO]: kev-kun has just earned the achievement [Berry Good]
+[21:33:46] [Server thread/INFO]: cookie has just earned the achievement [Cow Tipper]
+[21:34:45] [Server thread/INFO]: kyr1n has just earned the achievement [Time to Mine!]
+[21:34:53] [Server thread/INFO]: kyr1n has just earned the achievement [Time to Strike!]
+[21:36:08] [Server thread/INFO]: <cookie> [name:"mine", x:186, y:63, z:391]
+[21:37:10] [Server thread/INFO]: <cookie> brb
+[21:39:02] [Server thread/INFO]: kyr1n has just earned the achievement [Getting an Upgrade]
+[21:40:09] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:40:09] [Server thread/INFO]: fierceseraph left the game
+[21:41:11] [Server thread/INFO]: kev-kun has just earned the achievement [Acquire Hardware]
+[21:41:56] [Server thread/INFO]: <cookie> [name:"mine", x:186, y:63, z:391]
+[21:42:01] [Server thread/INFO]: fierceseraph[/173.59.8.177:63928] logged in with entity id 50044 at (304.76930350477323, 76.0, 391.4957583654791)
+[21:42:01] [Server thread/INFO]: fierceseraph joined the game
+[21:44:31] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:44:31] [Server thread/INFO]: kev-kun left the game
+[21:44:34] [Server thread/INFO]: kev-kun[/173.76.164.128:18435] logged in with entity id 52694 at (221.7900535255789, 77.0, 389.1653124490526)
+[21:44:34] [Server thread/INFO]: kev-kun joined the game
+[21:46:02] [Server thread/INFO]: cookie has just earned the achievement [Hot Topic]
+[21:46:57] [Server thread/INFO]: <kyr1n> hey stream
+[21:47:03] [Server thread/INFO]: <kyr1n> kev-kun is abusing admin powers
+[21:47:05] [Server thread/INFO]: <kyr1n> kappa
+[21:47:16] [Server thread/INFO]: <cookie> insert sexual content here
+[21:48:04] [Server thread/INFO]: kyr1n has just earned the achievement [Monster Hunter]
+[21:51:10] [Server thread/INFO]: cookie lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:51:10] [Server thread/INFO]: cookie left the game
+[21:52:06] [Server thread/INFO]: cookie[/173.76.172.75:58308] logged in with entity id 65034 at (169.60252103033486, 67.0, 401.0948605977482)
+[21:52:06] [Server thread/INFO]: cookie joined the game
+[21:52:31] [Server thread/INFO]: cookie lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:52:31] [Server thread/INFO]: cookie left the game
+[21:53:24] [Server thread/INFO]: cookie[/173.76.172.75:58452] logged in with entity id 67413 at (198.9048073315118, 69.0, 389.130157619925)
+[21:53:24] [Server thread/INFO]: cookie joined the game
+[21:54:33] [Server thread/INFO]: <kev-kun> [name:"community house", x:272, y:70, z:355]
+[21:55:26] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:55:26] [Server thread/INFO]: fierceseraph left the game
+[21:56:18] [Netty Epoll Server IO #0/INFO]: <cookie> [Tin Flakes]
+[22:00:27] [Server thread/INFO]: cookie has just earned the achievement [Getting an Upgrade]
+[22:08:08] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:08:08] [Server thread/INFO]: kev-kun left the game
+[22:08:13] [Server thread/INFO]: kev-kun[/173.76.164.128:19032] logged in with entity id 84888 at (325.7322421219226, 63.0, 331.67003563074667)
+[22:08:13] [Server thread/INFO]: kev-kun joined the game
+[22:11:52] [Server thread/INFO]: fierceseraph[/173.59.8.177:64085] logged in with entity id 94398 at (281.2424290938956, 71.0, 354.58082710323464)
+[22:11:52] [Server thread/INFO]: fierceseraph joined the game
+[22:13:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2096ms behind, skipping 41 tick(s)
+[22:13:53] [Netty Epoll Server IO #1/INFO]: <kev-kun> [Iron CAD Assembly]
+[22:13:56] [Server thread/INFO]: kyr1n was shot by Skeleton
+[22:14:07] [Server thread/INFO]: Player 'kyr1n' cannot be found
+[22:14:11] [Server thread/INFO]: Set kyr1n's game mode to Survival Mode
+[22:14:22] [Server thread/INFO]: kyr1n lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:14:22] [Server thread/INFO]: kyr1n left the game
+[22:14:26] [Server thread/INFO]: kyr1n[/108.49.113.134:64519] logged in with entity id 104861 at (209.4272407576986, 68.80948674189209, 252.93616116124377)
+[22:14:26] [Server thread/INFO]: kyr1n joined the game
+[22:14:38] [Server thread/INFO]: Set kyr1n's game mode to Survival Mode
+[22:15:07] [Server thread/INFO]: <kev-kun> [name:"ravine", x:79, y:66, z:116]
+[22:15:28] [Server thread/INFO]: <cookie> [name:"help pls", x:218, y:48, z:402]
+[22:16:36] [Server thread/INFO]: kyr1n was shot by Skeleton
+[22:16:42] [Server thread/INFO]: Set kyr1n's game mode to Survival Mode
+[22:16:52] [Server thread/INFO]: kyr1n lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:16:52] [Server thread/INFO]: kyr1n left the game
+[22:16:57] [Server thread/INFO]: kyr1n[/108.49.113.134:64600] logged in with entity id 112841 at (220.5, 71.82940159667969, 261.5)
+[22:16:57] [Server thread/INFO]: kyr1n joined the game
+[22:17:05] [Server thread/INFO]: kyr1n lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:17:05] [Server thread/INFO]: kyr1n left the game
+[22:17:09] [Server thread/INFO]: kyr1n[/108.49.113.134:64609] logged in with entity id 113463 at (215.44357488702826, 71.44696793791682, 261.51476708233764)
+[22:17:09] [Server thread/INFO]: kyr1n joined the game
+[22:17:09] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[22:17:14] [Server thread/INFO]: Set kyr1n's game mode to Survival Mode
+[22:17:27] [Server thread/INFO]: kyr1n lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[22:17:27] [Server thread/INFO]: kyr1n left the game
+[22:17:30] [Server thread/INFO]: kyr1n[/108.49.113.134:64630] logged in with entity id 114962 at (222.254703518614, 72.0, 271.2228095296468)
+[22:17:30] [Server thread/INFO]: kyr1n joined the game
+[22:18:22] [Server thread/INFO]: <kev-kun> [name:"sinkhole", x:-166, y:71, z:30]
+[22:20:25] [Server thread/INFO]: fierceseraph was shot by Skeleton
+[22:21:14] [Server thread/INFO]: kyr1n has just earned the achievement [Hot Topic]
+[22:21:24] [Server thread/INFO]: 's/gamemode' is not a valid number
+[22:21:29] [Server thread/INFO]: Set fierceseraph's game mode to Survival Mode
+[22:22:50] [Server thread/INFO]: <kev-kun> [name:"sheep", x:-159, y:73, z:230]
+[22:24:08] [Netty Epoll Server IO #0/INFO]: <cookie> [Tin Elixir]
+[22:24:39] [Server thread/INFO]: fierceseraph was shot by Skeleton
+[22:24:56] [Server thread/INFO]: Set fierceseraph's game mode to Survival Mode
+[22:26:10] [Server thread/INFO]: <fierceseraph> 78 140 70
+[22:28:06] [Server thread/INFO]: kyr1n has just earned the achievement [Acquire Hardware]
+[22:33:28] [Server thread/INFO]: <kev-kun> [name:"ravine", x:79, y:66, z:116]
+[22:42:42] [Server thread/INFO]: fierceseraph was shot by Skeleton
+[22:44:48] [Server thread/INFO]: Set fierceseraph's game mode to Survival Mode
+[22:46:21] [Server thread/INFO]: cookie was slain by Zombie
+[22:47:51] [Server thread/INFO]: Set cookie's game mode to Survival Mode
+[22:48:25] [Server thread/INFO]: fierceseraph has just earned the achievement [Flower Child]
+[22:58:57] [Server thread/INFO]: <kev-kun> hello team????
+[23:00:06] [Server thread/INFO]: <kyr1n> team???
+[23:01:03] [Server thread/INFO]: <kev-kun> team?
+[23:01:05] [Server thread/INFO]: <kev-kun> teaaaaaaaaaaaaam?
+[23:02:18] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:02:18] [Server thread/INFO]: kev-kun left the game
+[23:02:22] [Server thread/INFO]: kev-kun[/173.76.164.128:20405] logged in with entity id 234038 at (308.88454723390674, 76.0, 389.1214629904132)
+[23:02:22] [Server thread/INFO]: kev-kun joined the game
+[23:02:29] [Server thread/INFO]: <kev-kun> wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[23:02:32] [Server thread/INFO]: <kev-kun> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[23:02:32] [Server thread/INFO]: <cookie> nani
+[23:02:32] [Server thread/INFO]: <kev-kun> w
+[23:02:33] [Server thread/INFO]: <kev-kun> w
+[23:02:33] [Server thread/INFO]: <kev-kun> w
+[23:02:33] [Server thread/INFO]: <kev-kun> w
+[23:02:33] [Server thread/INFO]: <kev-kun> w
+[23:02:33] [Server thread/INFO]: <kev-kun> ww
+[23:02:34] [Server thread/INFO]: <kev-kun> w
+[23:02:34] [Server thread/INFO]: <kev-kun> w
+[23:02:34] [Server thread/INFO]: <kev-kun> w
+[23:02:34] [Server thread/INFO]: <kev-kun> w
+[23:02:36] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:02:36] [Server thread/INFO]: fierceseraph left the game
+[23:02:38] [Server thread/INFO]: <cookie> pls
+[23:02:56] [Server thread/INFO]: fierceseraph[/173.59.8.177:64388] logged in with entity id 235164 at (-141.69999998807907, 51.0, 457.69999998807907)
+[23:02:56] [Server thread/INFO]: fierceseraph joined the game
+[23:03:07] [Server thread/INFO]: Entity 'seraph' cannot be found
+[23:03:13] [Server thread/INFO]: Teleported fierceseraph to kev-kun
+[23:03:46] [Server thread/INFO]: fierceseraph was shot by Skeleton
+[23:04:00] [Server thread/WARN]: fierceseraph moved too quickly! -2.17784338503958,7.125000283117515,-6.693973635086081
+[23:04:18] [Server thread/INFO]: Set fierceseraph's game mode to Survival Mode
+[23:04:29] [Server thread/INFO]: fierceseraph was shot by Skeleton
+[23:05:09] [Server thread/INFO]: Set fierceseraph's game mode to Survival Mode
+[23:06:30] [Server thread/INFO]: fierceseraph has just earned the achievement [Acquire Hardware]
+[23:08:32] [Server thread/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_144]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_144]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:679) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:384) [lh.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:624) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:482) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_144]
+Caused by: java.lang.NullPointerException
+	at cavern.handler.CaveEventHooks.onPlayerRightClickBlock(CaveEventHooks.java:315) ~[CaveEventHooks.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_102_CaveEventHooks_onPlayerRightClickBlock_RightClickBlock.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:185) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onRightClickBlock(ForgeHooks.java:1099) ~[ForgeHooks.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187251_a(PlayerInteractionManager.java:435) ~[lz.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_184337_a(NetHandlerPlayServer.java:685) ~[mi.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:55) ~[jm.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItemOnBlock.func_148833_a(SourceFile:11) ~[jm.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[fo$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_144]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_144]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[23:09:41] [Netty Epoll Server IO #0/INFO]: <cookie> [Pear]
+[23:14:12] [Server thread/INFO]: kev-kun lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:14:12] [Server thread/INFO]: kev-kun left the game
+[23:14:17] [Server thread/INFO]: cookie lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:14:17] [Server thread/INFO]: cookie left the game
+[23:14:18] [Server thread/INFO]: kyr1n lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:14:18] [Server thread/INFO]: kyr1n left the game
+[23:14:21] [Server Shutdown Thread/INFO]: Stopping server
+[23:14:21] [Server Shutdown Thread/INFO]: Saving players
+[23:14:21] [Server thread/INFO]: fierceseraph lost connection: TextComponent{text='Server closed', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[23:14:21] [Server thread/INFO]: fierceseraph left the game
+[23:14:21] [Server Shutdown Thread/INFO]: Saving worlds
+[23:14:21] [Server Shutdown Thread/INFO]: Saving chunks for level 'hardcore'/Overworld

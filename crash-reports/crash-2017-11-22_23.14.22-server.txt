@@ -1,0 +1,102 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  LoadingPlugin (Quark-r1.2-90.jar)
+Contact their authors BEFORE contacting forge
+
+// Oh - I know what I did wrong!
+
+Time: 11/22/17 11:14 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1451)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:263)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:201)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:384)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:624)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:482)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1451)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:263)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:201)
+
+-- Affected level --
+Details:
+	Level name: hardcore
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 399 Drop: 128
+	Level seed: -4083500795787676487
+	Level generator: ID 06 - BIOMESOP, ver 0. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (216,64,256), Chunk: (at 8,4,0 in 13,16; contains blocks 208,0,256 to 223,255,271), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 151990 game time, 158110 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 152679 (now: false), thunder time: 40983 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: true. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:709)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:384)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:624)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:482)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11.2
+	Operating System: Linux (amd64) version 4.9.36-x86_64-linode85
+	Java Version: 1.8.0_144, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 246539056 bytes (235 MB) / 729587712 bytes (695 MB) up to 1556938752 bytes (1484 MB)
+	JVM Flags: 2 total; -Xmx1536M -Xms512M
+	IntCache: cache: 0, tcache: 0, allocated: 11, tallocated: 96
+	FML: MCP 9.38 Powered by Forge 13.20.1.2530 21 mods loaded, 21 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	minecraft{1.11.2} [Minecraft] (minecraft.jar) 
+	UCHIJAAAA	mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{8.0.99.99} [Forge Mod Loader] (forge-1.11.2-13.20.1.2530-universal.jar) 
+	UCHIJAAAA	forge{13.20.1.2530} [Minecraft Forge] (forge-1.11.2-13.20.1.2530-universal.jar) 
+	UCHIJAAAA	allomancy{2.7.0} [Allomancy] (allomancy-2.7.0b.jar) 
+	UCHIJAAAA	psi{r1.1-47} [Psi] (Psi-r1.1-47.jar) 
+	UCHIJAAAA	quark{r1.2-90} [Quark] (Quark-r1.2-90.jar) 
+	UCHIJAAAA	autoreglib{1.1-4} [AutoRegLib] (AutoRegLib-1.1-4.jar) 
+	UCHIJAAAA	biomesoplenty{6.0.2.2169} [Biomes O' Plenty] (BiomesOPlenty-1.11.2-6.0.2.2169-universal.jar) 
+	UCHIJAAAA	cavern{1.8.3} [Cavern] (Cavern_1.11.2-v1.8.3.jar) 
+	UCHIJAAAA	jei{4.2.11.251} [Just Enough Items] (jei_1.11.2-4.2.11.251.jar) 
+	UCHIJAAAA	journeymap{1.11.2-5.4.6} [JourneyMap] (journeymap-1.11.2-5.4.6.jar) 
+	UCHIJAAAA	mantle{1.11.2-1.2.0.26} [Mantle] (Mantle-1.11.2-1.2.0.26.jar) 
+	UCHIJAAAA	mercurius_updater{1.0} [mercurius_updater] (MercuriusUpdater-1.11.2.jar) 
+	UCHIJAAAA	natura{1.11.2-4.2.0.33} [Natura] (natura-1.11.2-4.2.0.33.jar) 
+	UCHIJAAAA	harvestcraft{1.11.2g} [Pam's HarvestCraft] (Pam's HarvestCraft 1.11.2g.jar) 
+	UCHIJAAAA	xreliquary{1.11.2-1.3.4.678} [Reliquary] (Reliquary-1.11.2-1.3.4.678.jar) 
+	UCHIJAAAA	bspkrscore{at_0.9} [bspkrsCore] (TreeCapitator-Mod-1.11.2.jar) 
+	UCHIJAAAA	treecapitator{at_0.9} [Treecapitator] (TreeCapitator-Mod-1.11.2.jar) 
+	UCHIJAAAA	waystones{3.0.17} [Waystones] (Waystones_1.11.2-3.0.17.jar) 
+	UCHIJAAAA	worldedit{6.1.6} [WorldEdit] (worldedit-forge-mc1.11-6.1.6-dist.jar) 
+	Loaded coremods (and transformers): 
+LoadingPlugin (Quark-r1.2-90.jar)
+  vazkii.quark.base.asm.ClassTransformer
+	Pulsar/natura loaded Pulses: 
+		- NaturaCommons (Enabled/Forced)
+		- NaturaOverworld (Enabled/Not Forced)
+		- NaturaNether (Enabled/Not Forced)
+		- NaturaDecorative (Enabled/Not Forced)
+		- NaturaTools (Enabled/Not Forced)
+		- NaturaEntities (Enabled/Not Forced)
+		- NaturaOredict (Enabled/Forced)
+		- NaturaWorld (Enabled/Not Forced)
+
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
